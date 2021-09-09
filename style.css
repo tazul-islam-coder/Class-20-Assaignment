@@ -1,0 +1,32 @@
+.navbar{
+    background-color:#e3f2fd ;
+}
+.navbar-brand img{
+    width: 50px;
+}
+
+.toast {
+    width: 546px;
+}
+
+.breadcrumb{
+    background-color: #e9ecef;
+}
+
+.height{
+    height: 700px;
+}
+
+
+.next-page {
+    text-align: -moz-right;
+}
+
+.pagination {
+    
+    padding-left: 370px;
+}
+.overflow{
+    overflow: scroll;
+    height: 200px;
+}
